@@ -44,4 +44,4 @@ You can view the notebook directly on **nbviewer**:
 ### Option 2: Run Locally  
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Anish-Ghadi/Hotels-Data-Analysis.git
