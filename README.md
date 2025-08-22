@@ -39,7 +39,7 @@ It serves as a hands-on example of how to approach a real-world dataset.
 ## 🔹 How to View
 ### Option 1: Online (Recommended)  
 You can view the notebook directly on **nbviewer**:  
-👉 [View on nbviewer](https://nbviewer.org/github/your-username/your-repo/blob/main/notebook.ipynb)
+👉 [View on nbviewer](https://nbviewer.org/github/Anish-Ghadi/Hotels-Data-Analysis/blob/main/Hotels_Data_Analysis.ipynb)
 
 ### Option 2: Run Locally  
 1. Clone this repo:
